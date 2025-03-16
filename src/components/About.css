@@ -1,0 +1,10 @@
+/* About.css */
+@media (min-width: 768px) {
+    .flex-container {
+      flex-direction: row !important;
+    }
+    
+    .half-width {
+      width: 50%;
+    }
+  }
