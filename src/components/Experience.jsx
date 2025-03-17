@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
+
 const Experience = ({ darkMode }) => {
   console.log(motion)
   

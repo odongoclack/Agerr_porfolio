@@ -206,7 +206,7 @@ const About = ({ darkMode }) => {
                 whileHover={{ y: -5 }}
               >
                 <h4 style={styles.degreeTitle}>BST Statistics</h4>
-                <p style={darkMode ? styles.darkDegreeInfo : styles.degreeInfo}>Jomo Kenyata University, 2023</p>
+                <p style={darkMode ? styles.darkDegreeInfo : styles.degreeInfo}>Jomo Kent University, 2023</p>
               </motion.div>
               
               <motion.div 

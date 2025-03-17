@@ -20,7 +20,7 @@ const Contact = ({ darkMode }) => {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Simulate form submission
+    
     try {
       await new Promise(resolve => setTimeout(resolve, 1500));
       console.log("Form submitted:", formData);
@@ -359,7 +359,7 @@ const Contact = ({ darkMode }) => {
               </svg>
               <div style={styles.contactText}>
                 <strong>Phone</strong><br />
-                <a href="tel:+254743737349" style={styles.contactLink}>+254 112 670 912</a>
+                <a href="tel:+254112670912" style={styles.contactLink}>+254 112 670 912</a>
               </div>
             </div>
             

@@ -1,4 +1,4 @@
-// Common styles used across components
+
 const getStyles = (darkMode) => ({
     container: {
       display: 'flex',
